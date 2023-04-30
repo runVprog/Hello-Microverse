@@ -35,7 +35,7 @@
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
 
-**Hello Microverse Project** is a sample project. The very first project of Microverse to get familiar with GitHub Flow. It displays the word "Hello Microverse".
+The **Hello Microverse Project** is a sample project that displays the words "Hello Microverse". It is the very first project that Microverse students complete to get familiar with GitHub Flow.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -76,11 +76,11 @@ To get a local copy up and running, follow these steps:
 
 In order to run this project you need:
 
-- You need to have a GitHub account
+- A GitHub account
 
 ### Setup
 
-Click the '\<code>' in my [repository](https://github.com/runVprog/Hello-Microverse.git) and click 'Download ZIP' and 'Extract All' to your desired folder.
+Click on `\<code>` in my [repository](https://github.com/runVprog/Hello-Microverse.git). Then click `Download ZIP` and `Extract All` to your desired folder.
 
 ### Install
 
@@ -90,7 +90,7 @@ Click the '\<code>' in my [repository](https://github.com/runVprog/Hello-Microve
 
 To run the project, execute the following file:
 
-'index.html'
+`index.html`
 
 ### Run tests
 
@@ -118,7 +118,7 @@ N/A
 ## 🔭 Future Features <a name="future-features"></a>
 
 **In the immediate future I will add:**
-- [] a personal logo to this README
+- A personal logo to this README
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,8 +142,7 @@ Feel free to check the [issues page](https://github.com/runVprog/Hello-Microvers
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank my Mentor in Microverse--Samuel Takyi for spending time to help me when I get stuck. And my fellow Microverse classmate--Peter Yeung; Nelly Telly and Riley Manda--my Learnig Partners for helping me at times despite his busy schedule to get things done too.
+I would like to thank my Microverse mentor, Samuel Takyi, for taking the time to help me when I get stuck. I would also like to thank my fellow Microverse classmate, Peter Yeung, and my learning partners, Nelly Telly and Riley Manda, for helping me at times despite their busy schedules.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
