@@ -35,7 +35,7 @@
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
 
-**Hello Microverse Project** is a a sample project to get familiar with GitHub Flow.
+**Hello Microverse Project** is a sample project. The very first project of Microverse to get familiar with GitHub Flow. It displays the word "Hello Microverse".
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,9 +43,10 @@
 
 
 <details>
-  <summary>Version Control</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://github.com/">Git</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS3</a></li>
   </ul>
 </details>
 
@@ -54,44 +55,42 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **Coming soon..**
+- **README**
+- **Linters checkers**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-- Coming soon..
+> Live demonstrations are not available at this time.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-N/A
+To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-N/A
+In order to run this project you need:
 
+- You need to have a GitHub account
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-
-```sh
-  git clone https://github.com/runVprog/Hello-Microverse.git
-```
+Click the '\<code>' in my [repository](https://github.com/runVprog/Hello-Microverse.git) and click 'Download ZIP' and 'Extract All' to your desired folder.
 
 ### Install
 
-N/A
+- Install Git Bash or Visual Studio Code
 
 ### Usage
 
-N/A
+To run the project, execute the following file:
+
+'index.html'
 
 ### Run tests
 
@@ -118,8 +117,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **Displays Hello Microverse in my favorite color**
+**In the immediate future I will add:**
+- [] a personal logo to this README
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +127,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Issues page coming soon..
+Feel free to check the [issues page](https://github.com/runVprog/Hello-Microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +143,7 @@ Issues page coming soon..
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank my Mentor in Microverse--Samuel Takyi for spending time to help me when I get stuck. And my fellow Microverse classmate--Peter Yeung for helping me at times despite his busy schedule to get things done too.
+I would like to thank my Mentor in Microverse--Samuel Takyi for spending time to help me when I get stuck. And my fellow Microverse classmate--Peter Yeung; Nelly Telly and Riley Manda--my Learnig Partners for helping me at times despite his busy schedule to get things done too.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
