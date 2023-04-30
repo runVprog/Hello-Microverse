@@ -80,7 +80,7 @@ In order to run this project you need:
 
 ### Setup
 
-Click on `\<code>` in my [repository](https://github.com/runVprog/Hello-Microverse.git). Then click `Download ZIP` and `Extract All` to your desired folder.
+Click on `<code>` in my [repository](https://github.com/runVprog/Hello-Microverse.git). Then click `Download ZIP` and `Extract All` to your desired folder.
 
 ### Install
 
